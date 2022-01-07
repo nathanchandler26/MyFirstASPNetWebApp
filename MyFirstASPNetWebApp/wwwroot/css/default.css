@@ -1,0 +1,20 @@
+﻿body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+label {
+    font-size: 20px;
+    color: darkcyan;
+    width: 150px;
+    display: inline-block; 
+    /* Put this display one if the width isn't working*/
+}
+
+textarea {
+    font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
